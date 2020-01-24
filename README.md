@@ -1,6 +1,5 @@
 # IT_256
-lab cource
-welcome 6cse5
+lab cource 6cse5
 
 
 
